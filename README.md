@@ -1,3 +1,5 @@
+//This is the code for Line Tracer using Arduino Robot, made to complete the general Engineering project class in Korea UST Orientation.
+
 #include <ArduinoRobot.h>
 #include <Wire.h>
 #include <SPI.h>
